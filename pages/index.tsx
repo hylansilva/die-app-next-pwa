@@ -50,7 +50,7 @@ return (
     <button onClick={sortDice}>Rodar dado</button>
 
     <footer>
-        Criado com 💜 por:<a href="http://github.com/hylansilva">Hylan Silva</a>
+        Criado com 💜 por: <a href="http://github.com/hylansilva">Hylan Silva</a>
     </footer>
     </div>
 )

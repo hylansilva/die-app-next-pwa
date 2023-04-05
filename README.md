@@ -6,7 +6,7 @@
     <p align="center"> Uma simples PWA para iniciar meus estudos com <a href="https://nextjs.org/">Next.Js</a></p>
 </p>
 <p align="center">
-    <a href="jogueodadoapp.vercel.app">Veja Funcionando</a>
+    <a href="https://jogueodadoapp.vercel.app">Veja Funcionando</a>
 </p>
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178c6)](https://www.typescriptlang.org/)
