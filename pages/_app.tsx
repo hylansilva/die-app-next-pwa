@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import '../styles/globals.css'
 import { AppProps } from 'next/app'
 
 export default function MyApp({ Component, pageProps }: AppProps) {
@@ -14,7 +13,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta name="description" content="Description" />
         <meta name="keywords" content="Keywords" />
-        <title>Next.js PWA Example</title>
+        <title>Dado Online</title>
 
         <link rel="manifest" href="/manifest.json" />
         <link
