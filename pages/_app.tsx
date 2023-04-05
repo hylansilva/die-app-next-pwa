@@ -28,8 +28,9 @@ export default function MyApp({ Component, pageProps }: AppProps) {
           type="image/png"
           sizes="32x32"
         />
+        <link rel="shortcut icon" href="../public/favicon.ico" type="image/x-icon" />
         <link rel="apple-touch-icon" href="/apple-icon.png"></link>
-        <meta name="theme-color" content="#317EFB" />
+        <meta name="theme-color" content="#212529" />
         <link rel="stylesheet" href="../style/styles.css" />
       </Head>
       <Component {...pageProps} />
