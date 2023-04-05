@@ -13,7 +13,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta name="description" content="Description" />
         <meta name="keywords" content="Keywords" />
-        <title>Dado App</title>
+        <title>Jogue o Dado App</title>
 
         <link rel="manifest" href="/manifest.json" />
         <link

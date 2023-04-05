@@ -1,23 +1,44 @@
-# Progressive Web App Example
+<p align="center">
+    <img src="./public/icons/icon-192x192.png" alt="die game icon" />
+    <h1 align="center">Jogue o Dado App</h1>
+</p>
+<p align="center">
+    <p align="center"> Uma simples PWA para iniciar meus estudos com <a href="https://nextjs.org/">Next.Js</a></p>
+</p>
+<p align="center">
+    <a href="jogueodadoapp.vercel.app">Veja Funcionando</a>
+</p>
 
-This example uses [`next-pwa`](https://github.com/shadowwalker/next-pwa) to create a progressive web app (PWA) powered by [Workbox](https://developers.google.com/web/tools/workbox/).
+[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178c6)](https://www.typescriptlang.org/)
+[![Licence](https://img.shields.io/github/license/hylansilva/ts-base-initial-project)](./LICENSE)
 
-## Deploy your own
+## Instruções
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+Para rodar este pedaço de código é simples! Faça um fork do repositório e baixe na sua máquina
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/progressive-web-app&project-name=progressive-web-app&repository-name=progressive-web-app)
+### Uso
+#### Instalação
+```` bash
+npm install
+````
+#### Executando em modo nomal
+```` bash
+npm start
+````
+#### Executando em modo dev
+```` bash
+npm run dev
+````
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+### Autor
 
-```bash
-npx create-next-app --example progressive-web-app progressive-web-app
-# or
-yarn create next-app --example progressive-web-app progressive-web-app
-# or
-pnpm create next-app --example progressive-web-app progressive-web-app
-```
+Configurado e organizado por: [Hylan Silva](https://github.com/hylansilva)
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+[![Twitter](https://img.shields.io/twitter/follow/lanosilvadev?style=social)](https://twitter.com/lanosilvadev)
+[![GitHub](https://img.shields.io/github/followers/hylansilva?style=social)](https://github.com/hylansilva)
+
+
+### Licenca
+
+Este projeto está licenciado sob a licença MIT, caso queira saber mais acesse o arquivo [LICENSE](./LICENSE) para uso didático e educacional.

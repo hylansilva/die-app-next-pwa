@@ -1,8 +1,8 @@
 {
   "name": "Dado App",
-  "short_name": "Next PWA",
+  "short_name": "Dado App",
   "theme_color": "#ffffff",
-  "background_color": "#004740",
+  "background_color": "#212529",
   "display": "fullscreen",
   "orientation": "portrait",
   "scope": "/",
